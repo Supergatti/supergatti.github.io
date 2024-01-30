@@ -12,6 +12,7 @@ $ hexo new "My New Post"
 ```
 
 More info: [Writing](https://hexo.io/docs/writing.html)
+![Alt text](%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240130163137.jpg)
 
 ### Run server
 
