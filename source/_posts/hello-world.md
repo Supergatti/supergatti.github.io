@@ -37,4 +37,4 @@ $ hexo deploy
 
 More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
 
-"source\_posts\微信图片_20240130163137.jpg"
+```source\_posts\微信图片_20240130163137.jpg```
